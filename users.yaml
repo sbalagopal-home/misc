@@ -41,3 +41,6 @@ newuser2:
 newuser1:
   corp_id: newuser1
   email: newuser1@fun.com
+newuser3:
+  corp_id: newuser3
+  email: newuser3@fun.com
