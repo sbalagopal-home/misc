@@ -12,4 +12,3 @@ dmitrykruglov: { corp_id: dkruglov, email: Dmitry.Kruglov@tivo.com }
 jskrnbindra: { corp_id: jbindra, email: Jaskaran.Bindra@tivo.com }
 ronnocol: { corp_id: loconnor, email: lance.oconnor@tivo.com }
 msanglikar: { corp_id: msanglikar, email: muneer.sanglikar@tivo.com }
-new_user: { corp_id: test, email: test@fun.com }
